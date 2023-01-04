@@ -14,6 +14,7 @@ In this game, players will be able to:
 ## Wall running
 
 Players can wall run across various points on the map and fire weapons while doing so. 
+
 *Note: The viewpoint of the player is in third person. The option for first person wall running will be updated and enabled in future updates*
 
 
