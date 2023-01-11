@@ -15,7 +15,11 @@ In this game, players will be able to:
 
 Players can use various movement techniques such as sprinting, crouching, sliding, wall running, and mantling.
 
+![mantle_AdobeExpress](https://user-images.githubusercontent.com/77950843/211705551-a8eb4936-014b-4a59-9391-eb09408eedf6.gif)
 
+![Slide_AdobeExpress](https://user-images.githubusercontent.com/77950843/211705576-8e9c7395-d268-450a-baeb-c4d026b1df87.gif)
+
+![Wallrun_AdobeExpress](https://user-images.githubusercontent.com/77950843/211705593-38c6ce3f-3550-419b-8334-d3eae75ac0df.gif)
 
 This game project is currently only available in third person however, animations for each movement is provided.
 
