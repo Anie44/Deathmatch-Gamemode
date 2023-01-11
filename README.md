@@ -19,13 +19,6 @@ Players can use various movement techniques such as sprinting, crouching, slidin
 
 This game project is currently only available in third person however, animations for each movement is provided.
 
-![Wallrun_AdobeExpress](https://user-images.githubusercontent.com/77950843/211697987-bcf5f44b-bf27-482c-87e5-7dea2b1aa046.gif)
-
-![Slide_AdobeExpress](https://user-images.githubusercontent.com/77950843/211698048-887999f0-f975-4b7c-a0c6-73e18dc67107.gif)
-
-![mantle_AdobeExpress](https://user-images.githubusercontent.com/77950843/211698081-f90f7437-2b34-4f51-88c0-e91bb1a40114.gif)
-
-
 *Note: The development of the parkour movement was made easier by DavieDev on YouTube*
 
 ## Map
