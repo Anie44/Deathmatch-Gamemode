@@ -25,6 +25,8 @@ This game project is currently only available in third person however, animation
 
 *Note: The development of the parkour movement was made easier by DavieDev on YouTube*
 
+*GIFs last updated 1/10/23*
+
 ## Map
 
 The map created is a custom map using features from many games such as Destiny and Titanfall. 
