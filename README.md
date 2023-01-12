@@ -23,7 +23,7 @@ Players can use various movement techniques such as sprinting, crouching, slidin
 
 This game project is currently only available in third person however, animations for each movement is provided.
 
-*Note: The development of the parkour movement was made easier by DavieDev on YouTube*
+*Note: DavieDev on YouTube made understanding this concept easier and was instrumental in this development*
 
 *GIFs last updated 1/10/23*
 
